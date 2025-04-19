@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mwizirwa Iyakare Sony Anthime
+# 👋 Hi, I'm mwizanthime
 
 **Full-Stack Developer | Flutter Mobile Expert | Blockchain Engineer | ML Specialist**
 
