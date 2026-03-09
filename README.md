@@ -48,8 +48,8 @@
 ## 🌟 Featured Projects
 
 ### 🛒 Full-Stack Solutions
-- [E-Commerce Platform](https://github.com/mwizanthime/ecommerce-fullstack) - MERN Stack (MongoDB, Express, React, Node)
-- [Learning Management System](https://github.com/mwizanthime/lms-platform) - Vue.js + Laravel + MySQL
+- [E-Commerce Platform](https://github.com/mwizanthime/oligo_products) - MySQL, Express, React, Node
+- [Learning Management System](https://github.com/mwizanthime/elearing_platform) - React + Express + MySQL, Node
 
 ### 📱 Mobile Masterpieces
 - [Health Tracker](https://github.com/mwizanthime/health-tracker) - Flutter + Firebase
@@ -78,7 +78,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/mwizanthime)
 - 🐦 [Twitter](https://twitter.com/mwizanthime)
-- 📧 mwizanthime@gmail.com
+- 📧 mwizanthime06@gmail.com
 - 🌐 [Personal Website](https://mwizanthime.github.io)
 
 <p align="center">
