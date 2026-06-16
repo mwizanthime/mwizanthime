@@ -233,19 +233,36 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwizanthime&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwizanthime&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
+
+### 💻 Development Activity
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mwizanthime&theme=radical&hide_border=true)](https://github.com/mwizanthime)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwizanthime&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>📈 Contribution Stats</h3>
+      <img src="https://streak-stats.demolab.com?user=mwizanthime&theme=radical&hide_border=true" alt="GitHub Streak" width="300"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwizanthime&theme=radical" alt="Profile Details" />
+
+### 🏆 Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| **Primary Language** | JavaScript / Python |
+| **Most Used Tech** | React, Node.js, Flutter |
+| **Repositories** | 20+ Open Source Projects |
+| **Focus Areas** | Full-Stack, Mobile, Blockchain, AI/ML |
+
 </div>
 
 ---
