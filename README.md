@@ -317,7 +317,7 @@
 | 💼 LinkedIn | [mwizanthime](https://linkedin.com/in/mwizanthime) |
 | 🐦 Twitter | [@mwizanthime](https://twitter.com/mwizanthime) |
 | 📧 Email | [mwizanthime06@gmail.com](mailto:mwizanthime06@gmail.com) |
-| 🌐 Portfolio | [mwizanthime.github.io](https://mwizanthime.github.io) |
+| 🌐 Portfolio |((https://my-portfolio-mwizanthimes-projects.vercel.app/)) |
 | 💬 Medium | [@mwizanthime](https://medium.com/@mwizanthime) |
 
 </div>
