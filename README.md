@@ -82,6 +82,7 @@ I particularly enjoy working on systems where software, payments, data, and real
   <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=092E20">
   <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Frappe-111827?style=flat-square&logo=frappe&logoColor=0089FF">
   <img src="https://img.shields.io/badge/GraphQL-111827?style=flat-square&logo=graphql&logoColor=E10098">
 </p>
 
