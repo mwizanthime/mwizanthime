@@ -185,7 +185,7 @@ A learning platform supporting course delivery, student management, assessments,
 
 **React · JavaScript · Node.js · Render**
 
-An automotive lifestyle platform for Rwanda focused on car events, premium experiences, and community, built in collaboration with Blaise Fame and TALAMISH385.
+An automotive lifestyle platform for Rwanda focused on car events, premium experiences, and community, built in collaboration with Blaise Fame and Sony Anthime.
 
 [View Live Demo](https://ride-nation-1.onrender.com)
 
