@@ -59,6 +59,7 @@ I particularly enjoy working on systems where software, payments, data, and real
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB">
   <img src="https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart&logoColor=0175C2">
   <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=777BB4">
@@ -149,6 +150,16 @@ A full-stack commerce platform designed around the core lifecycle of products, c
 
 ---
 
+## StockFlow — Inventory Management
+
+**React · JavaScript · Vercel**
+
+A professional inventory management platform for tracking products, stock levels, suppliers, sales, and profits.
+
+[View Live Demo](https://store-coral-phi.vercel.app/)
+
+---
+
 ## Learning Management System
 
 **React · Node.js · Express · MySQL**
@@ -167,6 +178,16 @@ A learning platform supporting course delivery, student management, assessments,
 * Administrative reporting
 
 [View Repository](https://github.com/mwizanthime/elearing_platform)
+
+---
+
+## Ride Nation — Automotive Community Platform
+
+**React · JavaScript · Node.js · Render**
+
+An automotive lifestyle platform for Rwanda focused on car events, premium experiences, and community, built in collaboration with Blaise Fame and TALAMISH385.
+
+[View Live Demo](https://ride-nation-1.onrender.com)
 
 ---
 
@@ -259,7 +280,7 @@ I am currently deepening my work in:
 * Application security
 * AI-assisted software development
 * Modern UI/UX engineering
-* Business automation platforms
+* Business automation platforms, including Frappe
 
 ---
 
